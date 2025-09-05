@@ -10,3 +10,9 @@ postgres
 Docker
 
 typescript
+
+
+To run a docker file 
+```
+docker compose up
+```
